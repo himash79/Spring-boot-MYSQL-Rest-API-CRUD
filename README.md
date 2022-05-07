@@ -10,7 +10,7 @@ Build Restful web services using spring boot and MYSQL and Hibernate as well as 
 
 ## Project setup
 
-01) Clone the prject
+01) Clone the project
 
 		git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
 
