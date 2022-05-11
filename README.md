@@ -33,4 +33,4 @@ Build Restful web services using spring boot and MYSQL and Hibernate as well as 
 ## Expose Rest APIs
 
 01) Authenticate user using related end-point APIs.
-02) Peform employee CRUD operations using related APIs.
+02) Perform employee CRUD operations using related APIs.
